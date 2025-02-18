@@ -6,6 +6,7 @@
 
 - 3. 依次输入命令：
     ```bash
+    cd /Users/dna-pku/Desktop/找工作/NLP-learning/
     git add .
     git commit -m "xxxx-xx-xx-x"
     git push origin main
