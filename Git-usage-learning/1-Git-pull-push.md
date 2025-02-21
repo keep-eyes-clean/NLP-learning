@@ -14,7 +14,7 @@
 
 或者 
     ```bash
-    cd /Users/dna-pku/Desktop/找工作/NLP-learning/
+    cd /Users/dna-pku/Desktop/实验梳理/DNA-6mA-Project
     git add .
     git commit -m "xxxx-xx-xx-x"
     git push origin main
