@@ -12,4 +12,11 @@
     git push origin main
     ```
 
+或者 
+    ```bash
+    cd /Users/dna-pku/Desktop/找工作/NLP-learning/
+    git add .
+    git commit -m "xxxx-xx-xx-x"
+    git push origin main
+    ```
 # 如何写成一个自动化脚本呢
