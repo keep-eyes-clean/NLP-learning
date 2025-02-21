@@ -11,3 +11,5 @@
     git commit -m "xxxx-xx-xx-x"
     git push origin main
     ```
+
+# 如何写成一个自动化脚本呢
